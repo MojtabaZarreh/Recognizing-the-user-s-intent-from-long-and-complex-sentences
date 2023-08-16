@@ -1,5 +1,9 @@
 # Recognizing-the-user-s-intent-from-long-and-complex-sentences
 This project was one of the challenges raised by Iran Mobile Communications Company (MCI) in the 7th artificial intelligence competition of Amirkabir University of Technology.
+Our team (Alpha) was among the top five teams of this challenge.
+team members :
+Mojtaba Zarreh
+Mohammad Salar Cheraghi
 
 # Description of the challenge
 One of the challenges that arise in chatbots is recognizing the meaning
