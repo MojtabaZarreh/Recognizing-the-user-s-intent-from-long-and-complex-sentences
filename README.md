@@ -5,6 +5,9 @@ team members :
 Mojtaba Zarreh,
 Mohammad Salar Cheraghi
 
+![1677930941067-5VS3](https://github.com/MojtabaZarreh/Recognizing-the-user-s-intent-from-long-and-complex-sentences/assets/71370569/eac5358c-5cb7-4250-8756-3e3dc6a7d9a6)
+
+
 # Description of the challenge
 One of the challenges that arise in chatbots is recognizing the meaning
 The user manual is long and complicated. For example, in the following sentence, the user requests to activate his waiting voice
